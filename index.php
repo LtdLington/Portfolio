@@ -106,7 +106,7 @@
                     <p class="card-text">PHP is mijn beste computertaal. In deze taal doe ik mijn examen.</p>
                 </div>
                 <div class="card-footer">
-                    <a href="php-index.php" class="btn btn-primary">Projecten</a>
+                    <a href="/portfolio/php-opdrachten/php-index.php" class="btn btn-primary">Projecten</a>
                 </div>
             </div>
         </div>
@@ -115,10 +115,10 @@
                 <img class="card-img-top" src="css/images/jsp_logo.png" alt="">
                 <div class="card-body">
                     <h4 class="card-title">JSP</h4>
-                    <p class="card-text">JSP beheers ik redelijk</p>
+                    <p class="card-text">JSP beheers ik redelijk.</p>
                 </div>
                 <div class="card-footer">
-                    <a href="#" class="btn btn-primary">Projecten</a>
+                    <a href="/portfolio/jsp-opdrachten/jsp-index.php" class="btn btn-primary">Projecten</a>
                 </div>
             </div>
         </div>
